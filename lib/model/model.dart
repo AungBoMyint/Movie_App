@@ -1,0 +1,14 @@
+export 'json_model/cast.dart';
+export 'json_model/crew.dart';
+export 'json_model/credit.dart';
+export 'json_model/detail_movie.dart';
+export 'json_model/genre.dart';
+export 'json_model/genre_list.dart';
+export 'json_model/movie.dart';
+export 'json_model/movies_with_something.dart';
+export 'json_model/production_companies.dart';
+export 'json_model/production_countries.dart';
+export 'json_model/spoken_language.dart';
+export 'json_model/spoken_language.dart';
+export 'json_model/video.dart';
+export 'json_model/video_list.dart';
